@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Machine Inventory</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="login_button">Log In</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="application_name">MACHINE\nINVENTORY</string>
+    <string name="copyright_txt"> Copyright \u00A9 2017 H One Pvt. Ltd.</string>
+</resources>

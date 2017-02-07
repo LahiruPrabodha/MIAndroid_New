@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#0099cc</color>
+    <color name="black_overlay">#66000000</color>
+
+    <!--MIS Colours-->
+    <color name="appBackgroundColor">#ffffff</color>
+    <color name="appBackgroundColorOld">#0099cc</color>
+    <color name="BtnBackgroundColor">#0099cc</color>
+    <color name="textHeaderColor">#333333</color>
+    <color name="alert_color_gr">#00ff7f</color>
+    <color name="copyright_text">#c2c2c2</color>
+</resources>
